@@ -3,7 +3,7 @@
 
 
 This repository is an official PyTorch implementation of the paper 
-**"Categorical Relation-Preserving Contrastive Knowledge Distillation for Skin Lesion Classification"** [paper]() 
+**"Categorical Relation-Preserving Contrastive Knowledge Distillation for Skin Lesion Classification"** [paper](https://arxiv.org/pdf/2107.03225.pdf) 
 from **MICCAI 2021**.
 
 ![](./figs/overview.png)
