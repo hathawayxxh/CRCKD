@@ -35,7 +35,7 @@ python3 train_CRCKD.py --ema_consistency 1  --exp sup4_pred_MT
 
 ### CRCKD: baseline + pred_MT + 0.1 * CRD_20pos + CRP
 ```shell script
-python3 train_CRCKD.py --ema_consistency 1 --CRD_distill 1 --CRD_b4_weight 0.1 --mode multi_pos --nce_p 20 --AR_distill 1 --exp sup4_pred_MT_0.1CRD_20pos_CRP
+python3 train_CRCKD.py --ema_consistency 1 --CCD_distill 1 --CRD_b4_weight 0.1 --mode multi_pos --nce_p 20 --CRP_distill 1 --exp sup4_pred_MT_0.1CRD_20pos_CRP
 ```
 
 
